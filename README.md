@@ -49,8 +49,10 @@ A highly secure and scalable Incident Reporting System built with **Laravel**, *
 ## 🛠️ Installation
 
 ```bash
-git clone 
+git clone https://github.com/mansi579/laravel-incident-reporting.git
 cd incident-reporting-system
+
+checkout into beta brnach
 
 composer install
 cp .env.example .env
